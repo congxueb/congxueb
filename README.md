@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xue Bin, CDL Beijing
+- 👋 Hi, I’m Xue Bin, in China Development Lab(CDL),  Beijing
 
 <!---
 congxueb/congxueb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
